@@ -1,3 +1,3 @@
-module github.com/marciovalim/go-greetings
+module marciovalim/go-greetings
 
 go 1.19
